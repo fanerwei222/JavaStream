@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * person实体类
- * @author DELL
+ * @author fanwei
  *
  */
 public class Person implements Serializable
