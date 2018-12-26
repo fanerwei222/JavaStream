@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * 字节数组输出流
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestByteArrayOutputStream
