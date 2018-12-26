@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * 文件字节输出流
  * 
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestFileOutputStream
