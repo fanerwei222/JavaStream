@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 缓冲字节输入流
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestBufferedInputStream
