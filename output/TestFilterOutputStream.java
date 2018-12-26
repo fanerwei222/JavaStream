@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 过滤器字节输出流
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestFilterOutputStream
