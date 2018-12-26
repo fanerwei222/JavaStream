@@ -11,7 +11,7 @@ import main.stream.object.Person;
 
 /**
  * 对象字节输出流
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestObjectOutputStream
