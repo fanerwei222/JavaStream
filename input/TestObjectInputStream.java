@@ -10,7 +10,7 @@ import main.stream.object.Person;
 
 /**
  * 对象字节输入流
- * @author DELL
+ * @author fanwei
  *
  */
 public class TestObjectInputStream
